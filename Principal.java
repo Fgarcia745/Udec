@@ -1,4 +1,6 @@
 public class Principal{
+
+	//clase principal
 	public static void main(String[] args) {
 		
 		Incremento in=new Incremento();
