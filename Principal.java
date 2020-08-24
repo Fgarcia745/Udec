@@ -2,7 +2,7 @@ public class Principal{
 
 	//clase principal
 
-// imprime en consola hola  
+// imprime la frase hola  
 	public class{
 		sistem.out.printline("hola");
 
