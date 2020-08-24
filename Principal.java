@@ -1,8 +1,8 @@
 public class Principal{
 
 	//clase principal
-	
-//hola 
+
+// imprime hola  
 	public class{
 		sistem.out.printline("hola");
 
