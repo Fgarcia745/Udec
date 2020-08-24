@@ -1,6 +1,12 @@
 public class Principal{
 
 	//clase principal
+	
+//hola 
+	public class{
+		sistem.out.printline("hola");
+
+	}
 	public static void main(String[] args) {
 		
 		Incremento in=new Incremento();
