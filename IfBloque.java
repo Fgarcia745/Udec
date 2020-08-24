@@ -1,4 +1,5 @@
 public class IfBloque {
+    //adfged
     public void ifbloque() {
         int puntuacion = 7;//declara una variable tipo entero 'int' asignada con 7
         char grupo ='C';//declara una varivle de tipo caracter 'char' asignada con 'C'
