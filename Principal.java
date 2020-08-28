@@ -10,7 +10,9 @@ public class Principal{
 	public static void main(String[] args) {
 
 		if(1>=0){
+				for(int i=0;i>10;i++){
 
+				}
 		}else
 		
 		Incremento in=new Incremento();
