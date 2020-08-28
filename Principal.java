@@ -8,6 +8,10 @@ public class Principal{
 
 	}
 	public static void main(String[] args) {
+
+		if(1>=0){
+
+		}else
 		
 		Incremento in=new Incremento();
 		PesoPlaneta Ps=new PesoPlaneta();
@@ -16,6 +20,7 @@ public class Principal{
 		Prioridad1 Pu=new Prioridad1();
 		Prioridad2 Pd=new Prioridad2();
 		Prioridad3 Pt=new Prioridad3();
+		Prioridad3 Pt=new Prioridad2();
 		Tiempo T=new Tiempo();
 
 		
